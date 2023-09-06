@@ -1,9 +1,5 @@
 # Template Mod 1.8.9
 
-Enhance the appearance and readability of your GitHub repository's README:
-
-Made using [**this repository**](https://github.com/DxxxxY/mcp1.8.9op) with MCP 1.8.9 and Optifine combined into a single installation.
-
 ---
 
 ## Installation & Setup
